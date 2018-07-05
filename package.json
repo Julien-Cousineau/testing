@@ -1,5 +1,5 @@
 {
-  "name": "testadd",
+  "name": "@julien.cousineau/testadd",
   "version": "1.0.0",
   "description": "Testing npm package",
   "main": "index.js",
